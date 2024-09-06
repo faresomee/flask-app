@@ -1,0 +1,10 @@
+gunicorn
+flask
+werkzeug
+uuid
+jwt
+datetime
+h5py
+numpy
+PIL
+pandas
