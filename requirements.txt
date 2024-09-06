@@ -9,3 +9,5 @@ numpy
 PIL
 pandas
 joblib
+scikit-learn
+
